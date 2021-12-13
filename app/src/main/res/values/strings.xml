@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="search_in_everything">search in everything</string>
+</resources>
